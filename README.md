@@ -1,10 +1,10 @@
 # README Generator
 
-![License: Apache](https://img.shields.io/badge/License-Apache_2.0-blue.svg)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## Description
 
-This is a README generator created using the command line. It makes it easy to create a professional README for your  project.
+This is a README generator created using the command line. It makes it easy to create a professional README for your project.
 
 ## Table of Contents
 - [Installation](#installlation)
@@ -20,16 +20,16 @@ To install this project only requires the use of the command line.
 
 ## Usage
 
-To use this app is very simple, you only need to answer a few questions via the command line.
+To use this app, you only need to answer a few questions via the command line.
 
 ## License
-This project is licensed under the [Apache](https://opensource.org/licenses/Apache-2.0) license.
+This project is licensed under the [MIT](https://opensource.org/licenses/MIT) license.
 
 ## Contributing
 
 Anyone can contribute to this project.
 
-##tests
+## tests
 
 N/A
 

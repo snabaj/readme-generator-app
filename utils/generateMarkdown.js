@@ -74,7 +74,7 @@ ${licenseSection}
 
 ${data.contributing}
 
-##tests
+## tests
 
 ${data.tests}
 
