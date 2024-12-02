@@ -1,10 +1,8 @@
-# README Generator
-
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+# README Generator Application
 
 ## Description
 
-This is a README generator created using the command line. It makes it easy to create a professional README for your project.
+In this project, i create a README file using a command line application. The purpose of this project is to make it easy to create a professional README with future projects. I used JavaScript and Node JS to create this application. I also used the Inquirer package to generate questions for the user.
 
 ## Table of Contents
 - [Installation](#installlation)
@@ -16,18 +14,18 @@ This is a README generator created using the command line. It makes it easy to c
 
 ## Installation
 
-To install this project only requires the use of the command line.
+N/A
 
 ## Usage
 
-To use this app, you only need to answer a few questions via the command line.
+To invoke the application, the user enters the command "node index.js" into the command line. The command line presents the user with a series of questions regarding the usage of their app, installation instructions, license information, testing, examples of usage, GitHub username, and email address. When all the information has been successfully gathered, the application will either print a success message or an error message to indicate whether the README file was created successfully or not. If the application is successful, the README file should appear in the users corresponding folder.
 
 ## License
 This project is licensed under the [MIT](https://opensource.org/licenses/MIT) license.
 
 ## Contributing
 
-Anyone can contribute to this project.
+N/A
 
 ## tests
 
